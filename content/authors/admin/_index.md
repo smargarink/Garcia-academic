@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Stephanie M Garcia
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Texts & Technology PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Univeristy of Central Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the effects of intersectional feminism on the audeince perception of Graphic Novels.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- LGBTQIA+ representation 
+- Media Studies
+- Narrative
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Texts & Technology
+    institution: University of Central Florida
+    year: 2025 
+  - course: MA in Interdisciplinary Studies
+    institution: University of Central Florida
+    year: 2019
+  - course: BS in Psychology
+    institution: Univeristy of Central Florida 
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Stephanie Garcia is a Texts and Technology student that specializes in Digital Humanities. Prior to joining T&T, Stephanie earned a Masters of Arts in Interdisciplinary Studies focusing in Cognitive Science and Emerging Media. She is a triple Knight and also received her Bachelors of Science in Psychology from UCF. Her research interests are gender representation in media and the roles women, especially women of color, play in digital media. Her other research interests focus on cultural representation and trends in the arts, specifically how cultural trends are perpetuated through media and vise versa.
