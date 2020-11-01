@@ -18,19 +18,19 @@ subtitle = ""
   icon = "zotero"
   icon_pack = "ai"
   name = "Zotero"
-  description = "90%"
+  description = "80%"
   
 [[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "git"
-  description = "100%"  
+  description = "75%"  
   
 [[feature]]
   icon = "markdown"
   icon_pack = "fab"
   name = "Markdown"
-  description = "10%"
+  description = "50%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
