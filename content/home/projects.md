@@ -9,6 +9,8 @@ title = "Projects"
 subtitle = ""
 
 [content]
+ title = "To be continued..."
+
   # Page type to display. E.g. project.
   page_type = "project"
   
