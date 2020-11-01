@@ -14,7 +14,7 @@ role: Texts & Technology PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Univeristy of Central Florida
+- name: University of Central Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,7 +34,7 @@ education:
     institution: University of Central Florida
     year: 2019
   - course: BS in Psychology
-    institution: Univeristy of Central Florida 
+    institution: University of Central Florida 
     year: 2014
 
 # Social/Academic Networking
