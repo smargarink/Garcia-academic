@@ -9,7 +9,7 @@ title = "Projects"
 subtitle = ""
 
 [content]
- title = "To be continued..."
+
 
   # Page type to display. E.g. project.
   page_type = "project"
@@ -23,8 +23,8 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
+[[content.filter_button]]
+     name = "To be continued..."
   #   tag = "*"
   
   # [[content.filter_button]]
