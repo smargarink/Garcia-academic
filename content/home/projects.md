@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
 
- # Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
  title: GitHub Repository 
  event: Academic Website
