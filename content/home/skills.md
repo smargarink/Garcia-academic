@@ -19,12 +19,30 @@ subtitle = ""
   icon_pack = "ai"
   name = "Zotero"
   description = "80%"
+
+[[feature]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  name = "Google Scholar"
+  description = "80%"
   
 [[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "git"
-  description = "75%"  
+  description = "75%" 
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+  description = "75%" 
+
+[[feature]]
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "Raspberry-pi"
+  description = "60%" 
   
 [[feature]]
   icon = "markdown"
