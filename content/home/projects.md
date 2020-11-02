@@ -10,6 +10,21 @@ subtitle = ""
 
 [content]
 
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: GitHub Repository 
+event: Academic Website
+event_url:
+location: 
+address:
+street:
+city:
+region:
+postcode:
+country:
+summary:
+abstract:
+
 
   # Page type to display. E.g. project.
   page_type = "project"
