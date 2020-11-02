@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 title: "In the works..."
-authors: [Stephanie Garcia]
+authors: Stephanie Garcia
 date: To be continued...
 doi: ""
 
