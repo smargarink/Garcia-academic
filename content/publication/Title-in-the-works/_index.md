@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Title in the works
 
 # View.
 #   1 = List
@@ -9,7 +9,7 @@ title: Publications
 view: 1
 
 # Optional header image (relative to `static/media/` folder).
-header: Currenly working on Submission to Journal of Popular culture
-  caption: "Title in the works"
+header: "To be continued..."
+  caption: "Will submit to journal of Pop Culture"
   image: ""
 ---
