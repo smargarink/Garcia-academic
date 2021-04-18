@@ -65,4 +65,3 @@ user_groups:
 ---
 
 Stephanie Garcia is a Texts and Technology student that specializes in Digital Humanities. Prior to joining T&T, Stephanie earned a Masters of Arts in Interdisciplinary Studies focusing in Cognitive Science and Emerging Media. She is a triple Knight and also received her Bachelors of Science in Psychology from UCF. Her research interests are gender representation in media and the roles women, especially women of color, play in digital media. Her other research interests focus on cultural representation and trends in the arts, specifically how cultural trends are perpetuated through media and vise versa. I wonder if this will work.
-
